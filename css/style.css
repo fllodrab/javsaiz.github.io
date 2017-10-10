@@ -1,0 +1,78 @@
+.cabecera
+{
+width: :auto;
+height:120px;
+background= images/fondo1.jpg;
+border: 1px solid black
+
+}
+.javier
+{
+  position:relative;
+  width: 150px;
+  height: 150px;
+  bottom: :200px;
+  border: 1px solid black;
+  top:10px;
+  left: 10px;
+}
+.titulocab
+{ position: relative;
+  display: flex;
+  justify-content:center;
+  bottom: 100px;
+}
+.container
+{
+position: relative;
+top:50px;
+display: flex;
+flex-direction: row;
+}
+.caja1
+{
+  position: relative;
+width: 50%;
+height: 70%;
+margin: 2px;
+padding: 10px;
+
+}
+.caja2
+{
+position: relative;
+width: 50%;
+margin: 2px;
+padding: 10px;
+}
+.enlaces
+{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top:80px
+}
+.github
+{
+  width: 35px;
+  height: 35px;
+}
+.linkedin
+{
+  width: 35px;
+  height: 35px;
+}
+.formulario
+{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  top:100px;
+}
+.pie
+{
+  position: relative;
+  top:100px;
+  display: flex;
+  justify-content: center;
+}
